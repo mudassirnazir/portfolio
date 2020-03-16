@@ -3,8 +3,7 @@
     "name": "mudassar-nazir",
     "version": "5.0.8",
     "scripts": {
-		"start":"npm install"
-        
+        "start": "node index.js"
     },
     "description": "",
     "keywords": [
@@ -15,7 +14,6 @@
         "theme",
         "template"
     ],
-    
     "license": " ",
     "author": "Mudassar Nazir",
     "dependencies": {
