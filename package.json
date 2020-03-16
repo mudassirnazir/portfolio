@@ -5,6 +5,7 @@
     "scripts": {
         "start": "node index.js"
     },
+	"main": "index.js",
     "description": "",
     "keywords": [
         "css",
